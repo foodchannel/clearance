@@ -1,5 +1,5 @@
 --- !ruby/object:Gem::Specification 
-name: clearance
+name: foodchannel-clearance
 version: !ruby/object:Gem::Version 
   version: 0.8.3
 platform: ruby
@@ -25,7 +25,7 @@ autorequire:
 bindir: bin
 cert_chain: []
 
-date: 2009-10-21 00:00:00 -04:00
+date: 2009-12-02 00:00:00 -05:00
 default_executable: 
 dependencies: []
 
@@ -138,7 +138,7 @@ required_rubygems_version: !ruby/object:Gem::Requirement
 requirements: []
 
 rubyforge_project: 
-rubygems_version: 1.3.4
+rubygems_version: 1.3.5
 signing_key: 
 specification_version: 3
 summary: Rails authentication with email & password.

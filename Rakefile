@@ -79,7 +79,7 @@ task :default => ['test:basic', 'test:features',
                   'test:views', 'test:features_for_views']
 
 gem_spec = Gem::Specification.new do |gem_spec|
-  gem_spec.name        = "clearance"
+  gem_spec.name        = "foodchannel-clearance"
   gem_spec.version     = "0.8.3"
   gem_spec.summary     = "Rails authentication with email & password."
   gem_spec.email       = "support@thoughtbot.com"
